@@ -13,7 +13,10 @@ Project Overview
 
 1) Sign in to your Amazon QuickSight account.
 
-2) Navigate to the project folder and import the provided Amazon QuickSight templates or datasets to create dashboards and analyses.
+2) use the link 
+   
+
+4) Navigate to the project folder and import the provided Amazon QuickSight templates or datasets to create dashboards and analyses.
 
 # Usage
 Interacting with the Dashboards:
