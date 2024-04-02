@@ -13,7 +13,7 @@ Project Overview
 
 1) Sign in to your Amazon QuickSight account.
 
-2) use the link 
+2) use the link  https://github.com/Tupsamundarsachin/Amazon-Quicksite-Projects
    
 
 4) Navigate to the project folder and import the provided Amazon QuickSight templates or datasets to create dashboards and analyses.
